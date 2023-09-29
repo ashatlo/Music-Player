@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>Music_Player</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="pexels-elviss-railijs-bitāns-1389429.jpg" />
+    <None Remove="playlist.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="pexels-elviss-railijs-bitāns-1389429.jpg" />
+    <Resource Include="playlist.png" />
+  </ItemGroup>
+
+</Project>

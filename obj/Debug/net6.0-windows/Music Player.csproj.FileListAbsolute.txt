@@ -1,0 +1,27 @@
+C:\Users\Ahmad\source\repos\Music Player\obj\Debug\net6.0-windows\Music Player.csproj.AssemblyReference.cache
+C:\Users\Ahmad\source\repos\Music Player\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Ahmad\source\repos\Music Player\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Ahmad\source\repos\Music Player\obj\Debug\net6.0-windows\Music Player_MarkupCompile.cache
+C:\Users\Ahmad\source\repos\Music Player\obj\Debug\net6.0-windows\Music Player_MarkupCompile.lref
+C:\Users\Ahmad\source\repos\Music Player\bin\Debug\net6.0-windows\Music Player.exe
+C:\Users\Ahmad\source\repos\Music Player\bin\Debug\net6.0-windows\Music Player.deps.json
+C:\Users\Ahmad\source\repos\Music Player\bin\Debug\net6.0-windows\Music Player.runtimeconfig.json
+C:\Users\Ahmad\source\repos\Music Player\bin\Debug\net6.0-windows\Music Player.dll
+C:\Users\Ahmad\source\repos\Music Player\bin\Debug\net6.0-windows\Music Player.pdb
+C:\Users\Ahmad\source\repos\Music Player\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Ahmad\source\repos\Music Player\obj\Debug\net6.0-windows\Music Player.g.resources
+C:\Users\Ahmad\source\repos\Music Player\obj\Debug\net6.0-windows\Music Player.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmad\source\repos\Music Player\obj\Debug\net6.0-windows\Music Player.AssemblyInfoInputs.cache
+C:\Users\Ahmad\source\repos\Music Player\obj\Debug\net6.0-windows\Music Player.AssemblyInfo.cs
+C:\Users\Ahmad\source\repos\Music Player\obj\Debug\net6.0-windows\Music Player.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\source\repos\Music Player\obj\Debug\net6.0-windows\Music Player.dll
+C:\Users\Ahmad\source\repos\Music Player\obj\Debug\net6.0-windows\refint\Music Player.dll
+C:\Users\Ahmad\source\repos\Music Player\obj\Debug\net6.0-windows\Music Player.pdb
+C:\Users\Ahmad\source\repos\Music Player\obj\Debug\net6.0-windows\Music Player.genruntimeconfig.cache
+C:\Users\Ahmad\source\repos\Music Player\obj\Debug\net6.0-windows\ref\Music Player.dll
+C:\Users\Ahmad\source\repos\Music Player\obj\Debug\net6.0-windows\Registery.g.cs
+C:\Users\Ahmad\source\repos\Music Player\obj\Debug\net6.0-windows\signin.g.cs
+C:\Users\Ahmad\source\repos\Music Player\obj\Debug\net6.0-windows\Registery.baml
+C:\Users\Ahmad\source\repos\Music Player\obj\Debug\net6.0-windows\signin.baml
+C:\Users\Ahmad\source\repos\Music Player\obj\Debug\net6.0-windows\Activat.g.cs
+C:\Users\Ahmad\source\repos\Music Player\obj\Debug\net6.0-windows\Activat.baml
